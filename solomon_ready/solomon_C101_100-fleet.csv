@@ -1,0 +1,2 @@
+﻿departure_node,arrival_node,capacity,max_travel_time,type,id
+0,0,200.0,1236.0,0,25
